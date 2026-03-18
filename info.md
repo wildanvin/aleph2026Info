@@ -18,3 +18,7 @@ genlayer
 avalanche
 - https://x.com/alephhackathon/status/2032513405421052277
 - https://www.avax.network/
+
+fiserv
+- https://x.com/alephhackathon/status/2034020482026967530
+- https://www.fiserv.com/es-la
