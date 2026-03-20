@@ -14,6 +14,11 @@ genlayer
 - https://www.genlayer.com/
 - https://studio.genlayer.com/contracts
 - https://docs.genlayer.com/
+  code
+- Boilerplate: https://github.com/genlayerlabs/genlayer-project-boilerplate
+- PM Kit: https://github.com/courtofinternet/pm-kit/tree/main/bridge
+- Bridge: https://github.com/genlayer-foundation/genlayer-studio-bridge-boilerplate
+- Internet Court: https://github.com/genlayer-foundation/internetcourt
 
 avalanche
 - https://x.com/alephhackathon/status/2032513405421052277
